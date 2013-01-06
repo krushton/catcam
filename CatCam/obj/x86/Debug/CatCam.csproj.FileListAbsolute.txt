@@ -1,0 +1,7 @@
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\bin\Debug\CatCam.exe
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\bin\Debug\CatCam.pdb
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\obj\x86\Debug\CatCam.CatCam.resources
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\obj\x86\Debug\CatCam.Properties.Resources.resources
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\obj\x86\Debug\CatCam.csproj.GenerateResource.Cache
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\obj\x86\Debug\CatCam.exe
+C:\Users\Kate\documents\visual studio 2010\Projects\CatCam\CatCam\obj\x86\Debug\CatCam.pdb
